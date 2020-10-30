@@ -2,9 +2,13 @@
 
 <img src="https://i.imgur.com/FUA6rdy.png">
 
-I am a self taught Front End Web Developer from the UK. I am currently freelancing whilst learning and working on client projects in HTML, CSS & JavaScript.
+If a unicorn is a designer/developer hybrid then I am a “mermaid” - a lady developer with excellent people skills.
 
-I am now looking for my first full time Front End role.
+My non-tech roles have allowed me to develop exceptional soft skills and become a superb communicator. I bring passion, determination and kindness to any role I undertake.
+
+Currently studying the Software Engineering Immersive with General Assembly and in December I will be looking for my first full time development role with mentorship and room to grow! I really love the creativity and visual aspects of Front End and would like the opportunity to learn more about UI/UX.
+
+My favourite things are: coding, birthday cake, being nice to people and seeing the underdog triumph.
 
 You can see my portfolio here - https://www.lauracharvey.dev/
 And read my story here - https://dev.to/lauracharvey/my-journey-through-space-time-and-tech-so-far-248a
@@ -15,14 +19,11 @@ You can read by blog <a href="https://dev.to/lauracharvey">here</a>.
 
 ## 🔭 I’m currently working on 
 
-Designing client sites both static and ecommerce
-Making projects with vanilla JavaScript and clean, interative UI
-My blog - Breaking into Web Dev - The No Jargon Guide
+General Assembly Software Engineering Immersive course.
 
 ## 🌱 I’m currently learning 
 
-JavaScript
-Gearing up to learn new frameworks
+React.js
 
 ## 👯 I’m looking to collaborate on 
 
@@ -34,7 +35,7 @@ Almost anything Dev related - if I don't know about it, I will find out about it
 
 ## 📫 How to reach me: 
 
-Reach out to me on Twitter - @lauracharvey
+Catch me over on Twitter (where I do most of my talking) https://twitter.com/lauracharvey
 
 ## ⚡ 2 Truths and a Lie: 
 
