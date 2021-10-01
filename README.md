@@ -6,11 +6,7 @@ If a unicorn is a designer/developer hybrid then I am a “mermaid” - a lady d
 
 My non-tech roles have allowed me to develop exceptional soft skills and become a superb communicator. I bring passion, determination and kindness to any role I undertake.
 
-I took on a role in DevRel after graduating from the Software Engineering Immersive with General Assembly unfortunately it isn't what I expected so I am now looking for a full time development role with mentorship and room to grow. I really love the creativity and visual aspects of Front End and would like the opportunity to explore more about UI/UX.
-
-My favourite things are: programming, being nice to people, dirt bikes, birthday cake and seeing the underdog triumph.
-
-Catch me over on Twitter (where I do most of my talking) @lauracharvey
+I took on a role in DevRel after graduating from General Assembly, it wasn't quite what I expected. I now have an additional 6 months experience as a Full Stack Developer. I am about to take on the biggest job of them all...motherhood. I am therefore looking for a flexible role to allow me the time to care for my little one and develop my skills further. I am open to both freelance and permanent oppotunities.
 
 🧜‍♀️
 
@@ -24,11 +20,11 @@ You can read by blog <a href="https://dev.to/lauracharvey">here</a>.
 
 ## 🔭 I’m currently working on 
 
-A full stack application with React in Rails
+Improving my React knowledge and skills
 
 ## 🌱 I’m currently learning 
 
-Ruby on Rails
+React
 
 ## 👯 I’m looking to collaborate on 
 
